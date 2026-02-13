@@ -11,7 +11,7 @@
 - [Synthesis & Implementation](#synthesis--implementation)
 - [Resources](#resources)
 
-## Introduction
+##
 
 This repository contains FPGA development projects using Xilinx Vivado. FPGA (Field-Programmable Gate Array) development involves designing digital circuits using Hardware Description Languages (HDL) and implementing them on programmable hardware.
 
